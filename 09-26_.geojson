@@ -1,0 +1,3045 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-05-14T15:39:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/362717",
+        "landuse": "industrial",
+        "name": "Polígono Industrial Las Rozas",
+        "source": "survey",
+        "source:date": "200908",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0681408,
+          39.9757655
+        ]
+      },
+      "id": "relation/362717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/942127",
+        "landuse": "industrial",
+        "name": "Polígono Industrial Charca Musia",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3675389,
+          39.4521218
+        ]
+      },
+      "id": "relation/942127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2094705",
+        "landuse": "industrial",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3655253,
+          39.4753325
+        ]
+      },
+      "id": "relation/2094705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/5623508",
+        "landuse": "industrial",
+        "name": "Polígono Industrial \"Aldea Moret\"",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3830069,
+          39.4512889
+        ]
+      },
+      "id": "relation/5623508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/5627613",
+        "landuse": "industrial",
+        "name": "Polígono Industrial Las Capellanías",
+        "source": "yahoo",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.41858,
+          39.4865966
+        ]
+      },
+      "id": "relation/5627613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/8350582",
+        "generator:method": "photovoltaic",
+        "generator:source": "solar",
+        "landuse": "industrial",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3559838,
+          39.3344268
+        ]
+      },
+      "id": "relation/8350582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/11261527",
+        "landuse": "industrial",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5989525,
+          39.1802786
+        ]
+      },
+      "id": "relation/11261527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/15810209",
+        "contact:website": "https://www.proyectos.statkraft.es/talayuela/",
+        "generator:solar:tracking": "single_axis",
+        "landuse": "industrial",
+        "name": "Talayuela Solar",
+        "operator": "Statkraft",
+        "operator:wikidata": "Q1681145",
+        "plant:method": "photovoltaic",
+        "plant:output:electricity": "300 MW",
+        "plant:source": "solar",
+        "power": "plant",
+        "source": "https://www.proyectos.statkraft.es/talayuela/",
+        "start_date": "2020",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4175707,
+          39.9112727
+        ]
+      },
+      "id": "relation/15810209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/15877408",
+        "landuse": "industrial",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3903367,
+          39.2110158
+        ]
+      },
+      "id": "relation/15877408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/15877409",
+        "landuse": "industrial",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3888261,
+          39.2139728
+        ]
+      },
+      "id": "relation/15877409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/15877410",
+        "landuse": "industrial",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3893178,
+          39.2198065
+        ]
+      },
+      "id": "relation/15877410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/17164357",
+        "landuse": "industrial",
+        "name": "Planta Fotovoltaica Francisco Pizarro",
+        "operator": "Iberdrola",
+        "operator:wikidata": "Q1437502",
+        "plant:method": "photovoltaic",
+        "plant:output:electricity": "590 MW",
+        "plant:source": "solar",
+        "power": "plant",
+        "start_date": "2023",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6798833,
+          39.568074
+        ]
+      },
+      "id": "relation/17164357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/18818072",
+        "landuse": "industrial",
+        "name": "Polígono Industrial Las Habazas-El Empalme",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0965524,
+          39.9435436
+        ]
+      },
+      "id": "relation/18818072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/32214028",
+        "landuse": "industrial",
+        "name": "Polígono Industrial \"La Dehesilla\"",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8557639,
+          39.4779222
+        ]
+      },
+      "id": "way/32214028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/34115826",
+        "landuse": "industrial",
+        "name": "Polígono industrial La Cañada",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4196334,
+          39.5506715
+        ]
+      },
+      "id": "way/34115826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/51526615",
+        "landuse": "industrial",
+        "name": "Poligono Industrial La Atalaya",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8883144,
+          39.7102443
+        ]
+      },
+      "id": "way/51526615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/52638391",
+        "landuse": "industrial",
+        "name": "Central hidroeléctrica Jose María de Oriol",
+        "operator": "Ibedrola",
+        "plant:output:electricity": "957 MW",
+        "plant:source": "hydro",
+        "power": "plant",
+        "wikidata": "Q94989675",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8853517,
+          39.729305
+        ]
+      },
+      "id": "way/52638391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/52871967",
+        "landuse": "industrial",
+        "name": "Espagry Ibérica",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.063131,
+          39.975518
+        ]
+      },
+      "id": "way/52871967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/56060827",
+        "landuse": "industrial",
+        "name": "Polígono Industrial Molinos de Viento",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0237754,
+          39.9748584
+        ]
+      },
+      "id": "way/56060827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/125338442",
+        "landuse": "industrial",
+        "name": "Central nuclear de Almaraz",
+        "operator": "Centrales Nucleares Almaraz-Trillo",
+        "plant:method": "fission",
+        "plant:output:electricity": "1957 MW",
+        "plant:source": "nuclear",
+        "power": "plant",
+        "start_date": "1983",
+        "wikidata": "Q1431041",
+        "wikipedia": "es:Central nuclear de Almaraz",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6960831,
+          39.8076303
+        ]
+      },
+      "id": "way/125338442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/135363857",
+        "landuse": "industrial",
+        "name": "Polígono industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2319164,
+          39.4148377
+        ]
+      },
+      "id": "way/135363857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173566062",
+        "landuse": "industrial",
+        "name": "Polígono Industrial \"El Batán\"",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3753765,
+          39.9738753
+        ]
+      },
+      "id": "way/173566062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/183666724",
+        "landuse": "industrial",
+        "man_made": "wastewater_plant",
+        "name": "Estación Depuradora de Aguas Residuales Plasencia",
+        "short_name": "EDAR Plasencia",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.099233,
+          40.0375672
+        ]
+      },
+      "id": "way/183666724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/186307009",
+        "landuse": "industrial",
+        "name": "Polígono Industrial Campo Arañuelo",
+        "source": "Bing Aerial Maps",
+        "source:date": "2012",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5618831,
+          39.9153518
+        ]
+      },
+      "id": "way/186307009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/186600482",
+        "landuse": "industrial",
+        "name": "Zona Industrial Coria I",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.52395,
+          39.985303
+        ]
+      },
+      "id": "way/186600482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/186600483",
+        "landuse": "industrial",
+        "man_made": "works",
+        "name": "Cidacos Tomatera",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5390356,
+          39.9788487
+        ]
+      },
+      "id": "way/186600483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/251566356",
+        "alt_name": "Polígono Industrial Charca del Hambr",
+        "landuse": "industrial",
+        "name": "Polígono Industrial Casar de Cáceres",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4353127,
+          39.5428975
+        ]
+      },
+      "id": "way/251566356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/286778575",
+        "landuse": "industrial",
+        "name": "Polígono Industrial de Almoharín",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0389951,
+          39.1682981
+        ]
+      },
+      "id": "way/286778575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/296400226",
+        "landuse": "industrial",
+        "name": "Polígono Industrial Las Arenas. Sector 2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4874909,
+          39.4496918
+        ]
+      },
+      "id": "way/296400226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/296400227",
+        "landuse": "industrial",
+        "name": "Polígono Industrial Las Arenas. Sector 3",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4764374,
+          39.4504146
+        ]
+      },
+      "id": "way/296400227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/297306209",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4013175,
+          40.2064905
+        ]
+      },
+      "id": "way/297306209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/297306341",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4048315,
+          40.2018513
+        ]
+      },
+      "id": "way/297306341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/297307066",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4118192,
+          40.2047395
+        ]
+      },
+      "id": "way/297307066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/297307169",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4078224,
+          40.2044334
+        ]
+      },
+      "id": "way/297307169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/297311848",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4148154,
+          40.1987486
+        ]
+      },
+      "id": "way/297311848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/305615222",
+        "landuse": "industrial",
+        "substance": "gas",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3380655,
+          39.4708999
+        ]
+      },
+      "id": "way/305615222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/305771051",
+        "landuse": "industrial",
+        "name": "Enagas",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1536687,
+          39.6582532
+        ]
+      },
+      "id": "way/305771051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/305772504",
+        "landuse": "industrial",
+        "name": "Enagas",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1734376,
+          39.8156821
+        ]
+      },
+      "id": "way/305772504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/305773751",
+        "landuse": "industrial",
+        "name": "Enagas",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1491628,
+          40.0460497
+        ]
+      },
+      "id": "way/305773751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/305775798",
+        "industrial": "gas",
+        "landuse": "industrial",
+        "name": "Enagas",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.979288,
+          40.2349468
+        ]
+      },
+      "id": "way/305775798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/307075907",
+        "landuse": "industrial",
+        "name": "Polígono Industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5735739,
+          39.4761682
+        ]
+      },
+      "id": "way/307075907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/307652786",
+        "landuse": "industrial",
+        "name": "Agrupación de Cooperativas Valle del Jerte",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8758541,
+          40.1444371
+        ]
+      },
+      "id": "way/307652786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309136211",
+        "landuse": "industrial",
+        "name": "Polígono Industrial La Cañada",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6432407,
+          40.0582463
+        ]
+      },
+      "id": "way/309136211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309136213",
+        "landuse": "industrial",
+        "name": "Polígono Industrial El Postuero",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6698052,
+          40.0504262
+        ]
+      },
+      "id": "way/309136213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/316219011",
+        "landuse": "industrial",
+        "pipeline": "regulating_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2500158,
+          39.1817751
+        ]
+      },
+      "id": "way/316219011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/317912732",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6751414,
+          39.8182979
+        ]
+      },
+      "id": "way/317912732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/320861860",
+        "landuse": "industrial",
+        "name": "Frabrica de Granito",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.360055,
+          39.289096
+        ]
+      },
+      "id": "way/320861860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/324345013",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9406522,
+          39.1332275
+        ]
+      },
+      "id": "way/324345013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/328968696",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2654927,
+          39.1641421
+        ]
+      },
+      "id": "way/328968696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/332387782",
+        "landuse": "industrial",
+        "plant:method": "photovoltaic",
+        "plant:output:electricity": "yes",
+        "plant:source": "solar",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4986568,
+          40.0290401
+        ]
+      },
+      "id": "way/332387782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/332413013",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4371265,
+          40.0535487
+        ]
+      },
+      "id": "way/332413013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/332437886",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5652941,
+          40.0121239
+        ]
+      },
+      "id": "way/332437886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/333841440",
+        "landuse": "industrial",
+        "name": "Polígono Industrial Las Lagunillas",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5274667,
+          39.9841647
+        ]
+      },
+      "id": "way/333841440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/344539356",
+        "landuse": "industrial",
+        "name": "Polígono industrial de Logrosán",
+        "place": "village",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.47849,
+          39.3319882
+        ]
+      },
+      "id": "way/344539356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/362908188",
+        "landuse": "industrial",
+        "name": "Polígono Industrial de Rivera de Gata",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6681959,
+          40.0779188
+        ]
+      },
+      "id": "way/362908188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/364560544",
+        "industrial": "distributor",
+        "landuse": "industrial",
+        "name": "Transportes y Gasóleos Hnos. Izquierdo",
+        "phone": "+34 689314946",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8758613,
+          40.2798157
+        ]
+      },
+      "id": "way/364560544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/364820459",
+        "landuse": "industrial",
+        "name": "Polígono Industrial Las Arenas.",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4718575,
+          39.451694
+        ]
+      },
+      "id": "way/364820459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/372056266",
+        "landuse": "industrial",
+        "name": "Polígono Industrial Plasencia Sur",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1150939,
+          40.001345
+        ]
+      },
+      "id": "way/372056266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/372202190",
+        "landuse": "industrial",
+        "name": "Polígono Industrial Plasencia Norte",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1037681,
+          40.0142413
+        ]
+      },
+      "id": "way/372202190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375940410",
+        "landuse": "industrial",
+        "name": "Poligono Industrial de Montehermoso",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3689756,
+          40.0956985
+        ]
+      },
+      "id": "way/375940410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/376401293",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6248296,
+          39.8063308
+        ]
+      },
+      "id": "way/376401293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/376489868",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.155608,
+          39.9824913
+        ]
+      },
+      "id": "way/376489868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377014550",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7727133,
+          39.6182218
+        ]
+      },
+      "id": "way/377014550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/383072860",
+        "landuse": "industrial",
+        "name": "Ecoparque Mirabel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2502924,
+          39.874566
+        ]
+      },
+      "id": "way/383072860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/386369588",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3327484,
+          39.8157827
+        ]
+      },
+      "id": "way/386369588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/386369597",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3493841,
+          39.8360809
+        ]
+      },
+      "id": "way/386369597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/390634955",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "source": "PNOA",
+        "source:date": "2012",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7175873,
+          40.1085273
+        ]
+      },
+      "id": "way/390634955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/396945800",
+        "landuse": "industrial",
+        "plant:method": "photovoltaic",
+        "plant:output:electricity": "yes",
+        "plant:source": "solar",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7508147,
+          39.6148085
+        ]
+      },
+      "id": "way/396945800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/404407010",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3735901,
+          39.7942679
+        ]
+      },
+      "id": "way/404407010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/435204914",
+        "landuse": "industrial",
+        "source": "PNOA",
+        "source:date": "2012",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.596301,
+          40.1150097
+        ]
+      },
+      "id": "way/435204914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/455093090",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8898467,
+          39.1625364
+        ]
+      },
+      "id": "way/455093090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/455093095",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8970911,
+          39.1573944
+        ]
+      },
+      "id": "way/455093095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/455093097",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8918366,
+          39.1607283
+        ]
+      },
+      "id": "way/455093097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/455094350",
+        "landuse": "industrial",
+        "name": "Miajadas Biomass Plant",
+        "operator": "Acciona Energía",
+        "operator:wikidata": "Q11919256",
+        "plant:method": "combustion",
+        "plant:output:electricity": "15 MW",
+        "plant:source": "biomass",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9458456,
+          39.1198341
+        ]
+      },
+      "id": "way/455094350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/455094351",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9429676,
+          39.1275829
+        ]
+      },
+      "id": "way/455094351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/455094352",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9319195,
+          39.1355558
+        ]
+      },
+      "id": "way/455094352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/455094881",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9421409,
+          39.1357349
+        ]
+      },
+      "id": "way/455094881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/459340885",
+        "landuse": "industrial",
+        "name": "Prensa De Machichas",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4177842,
+          39.6300557
+        ]
+      },
+      "id": "way/459340885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/499178924",
+        "landuse": "industrial",
+        "name": "Navaconcejo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.839888,
+          40.1726021
+        ]
+      },
+      "id": "way/499178924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/499538022",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8136389,
+          40.1871205
+        ]
+      },
+      "id": "way/499538022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/525461206",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9797782,
+          40.2097469
+        ]
+      },
+      "id": "way/525461206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/542629186",
+        "addr:city": "Talayuela",
+        "landuse": "industrial",
+        "name": "Polígono Industrial Alcantarilla",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6079672,
+          39.9953357
+        ]
+      },
+      "id": "way/542629186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/542945647",
+        "landuse": "industrial",
+        "name": "Polígono Industrial El Ejido",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6048152,
+          39.9740034
+        ]
+      },
+      "id": "way/542945647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/543009524",
+        "landuse": "industrial",
+        "name": "Polígono Industrial El Embarcadero",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6509692,
+          40.1219499
+        ]
+      },
+      "id": "way/543009524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/546309948",
+        "addr:city": "Navalmoral de la Mata",
+        "addr:milestone": "Km. 179",
+        "addr:postcode": "10300",
+        "addr:street": "Antigua N-V",
+        "landuse": "industrial",
+        "name": "ITV Navalmoral de la Mata",
+        "phone": "+34 927 01 66 44",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5286163,
+          39.8929472
+        ]
+      },
+      "id": "way/546309948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547028661",
+        "addr:city": "Navalmoral de la Mata",
+        "addr:housenumber": "26",
+        "addr:postcode": "10300",
+        "addr:street": "Avenida de Angustias",
+        "landuse": "industrial",
+        "name": "CETARSA",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5480761,
+          39.8933465
+        ]
+      },
+      "id": "way/547028661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/584956698",
+        "landuse": "industrial",
+        "name": "Polígono Industrial Las Cañadas",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8811242,
+          40.2820785
+        ]
+      },
+      "id": "way/584956698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593541971",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "Centro Thermosolar Solaben",
+        "name:en": "Solaben Solar Power Station",
+        "plant:method": "thermal",
+        "plant:output:electricity": "200 MW",
+        "plant:source": "solar",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3887008,
+          39.214389
+        ]
+      },
+      "id": "way/593541971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593776942",
+        "landuse": "industrial",
+        "name": "Solaben 6",
+        "plant:method": "thermal",
+        "plant:output:electricity": "yes",
+        "plant:source": "solar",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3903367,
+          39.2110158
+        ]
+      },
+      "id": "way/593776942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593776947",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3970889,
+          39.2307024
+        ]
+      },
+      "id": "way/593776947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593776952",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3982433,
+          39.2295631
+        ]
+      },
+      "id": "way/593776952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593893234",
+        "landuse": "industrial",
+        "name": "Solaben",
+        "plant:method": "thermal",
+        "plant:output:electricity": "yes",
+        "plant:source": "solar",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3893178,
+          39.2198065
+        ]
+      },
+      "id": "way/593893234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593893237",
+        "landuse": "industrial",
+        "name": "Solaben",
+        "plant:method": "thermal",
+        "plant:output:electricity": "yes",
+        "plant:source": "solar",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3888261,
+          39.2139728
+        ]
+      },
+      "id": "way/593893237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/618560513",
+        "landuse": "industrial",
+        "name": "Parque solar de Calzada de Oropesa",
+        "operator": "EIDF",
+        "plant:method": "photovoltaic",
+        "plant:output:electricity": "yes",
+        "plant:source": "solar",
+        "power": "plant",
+        "source": "https://www.eidfsolar.es/parque-fotovoltaico-oropesa/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3154183,
+          39.8928159
+        ]
+      },
+      "id": "way/618560513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/624348425",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.414967,
+          40.2445705
+        ]
+      },
+      "id": "way/624348425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/624348426",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4163522,
+          40.2483482
+        ]
+      },
+      "id": "way/624348426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/644946090",
+        "landuse": "industrial",
+        "name": "Polígono Industrial Los Rosales",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5265239,
+          39.990498
+        ]
+      },
+      "id": "way/644946090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/645735043",
+        "landuse": "industrial",
+        "name": "Centro de Conservación de Carreteras Junta de Extremadura",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5399252,
+          39.9924763
+        ]
+      },
+      "id": "way/645735043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/646068832",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2331217,
+          39.4275561
+        ]
+      },
+      "id": "way/646068832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/646938743",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5244899,
+          39.9754805
+        ]
+      },
+      "id": "way/646938743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/646938745",
+        "landuse": "industrial",
+        "name": "Emisan Azulejos",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5267644,
+          39.974687
+        ]
+      },
+      "id": "way/646938745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/647448089",
+        "landuse": "industrial",
+        "name": "Centro de Servicios al Transporte de Coria",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5190149,
+          39.9819665
+        ]
+      },
+      "id": "way/647448089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/647448106",
+        "landuse": "industrial",
+        "name": "COPAL Sociedad Cooperativa del Alagón",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5187829,
+          39.9834771
+        ]
+      },
+      "id": "way/647448106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/647816440",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5571338,
+          40.0045358
+        ]
+      },
+      "id": "way/647816440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/647816447",
+        "landuse": "industrial",
+        "name": "Desguaces Cáceres",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5588785,
+          40.0081477
+        ]
+      },
+      "id": "way/647816447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/648077376",
+        "landuse": "industrial",
+        "name": "Talleres diversos",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3673252,
+          39.4610918
+        ]
+      },
+      "id": "way/648077376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/648208219",
+        "landuse": "industrial",
+        "name": "Polígono Industrial Palomino III",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0949737,
+          40.0215869
+        ]
+      },
+      "id": "way/648208219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/648533063",
+        "landuse": "industrial",
+        "name": "Centro de Conservación y Explotación de Carreteras",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.094673,
+          40.0251432
+        ]
+      },
+      "id": "way/648533063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/650112658",
+        "landuse": "industrial",
+        "name": "Centro de Servicios al Transporte de Plasencia",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1237483,
+          40.0000847
+        ]
+      },
+      "id": "way/650112658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/650112660",
+        "landuse": "industrial",
+        "name": "Semilleros de Empresas",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.12386,
+          40.0008882
+        ]
+      },
+      "id": "way/650112660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/650112688",
+        "building": "yes",
+        "industrial": "slaughterhouse",
+        "landuse": "industrial",
+        "name": "Bon Sabor Cárnicas del Oeste",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1219707,
+          40.0010168
+        ]
+      },
+      "id": "way/650112688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/650154270",
+        "industrial": "scrap_yard",
+        "landuse": "industrial",
+        "name": "Desguace Velasco y Solano",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1108223,
+          40.0118827
+        ]
+      },
+      "id": "way/650154270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/650154299",
+        "industrial": "scrap_yard",
+        "landuse": "industrial",
+        "name": "Desguaces Hierro Díaz",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1055043,
+          40.0156848
+        ]
+      },
+      "id": "way/650154299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/650723553",
+        "industrial": "scrap_yard",
+        "landuse": "industrial",
+        "name": "Desguaces Torres Car",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0941314,
+          40.0125372
+        ]
+      },
+      "id": "way/650723553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/652386204",
+        "landuse": "industrial",
+        "name": "Polígono Industrial Las Eras",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0417476,
+          39.9731377
+        ]
+      },
+      "id": "way/652386204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/654996849",
+        "landuse": "industrial",
+        "name": "CARBONERA",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3488983,
+          39.4443246
+        ]
+      },
+      "id": "way/654996849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/654996851",
+        "landuse": "industrial",
+        "name": "Carbonera",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3389266,
+          39.4392354
+        ]
+      },
+      "id": "way/654996851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/655685952",
+        "landuse": "industrial",
+        "name": "NETASA",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1005418,
+          40.0102545
+        ]
+      },
+      "id": "way/655685952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/656709319",
+        "landuse": "industrial",
+        "name": "Centro Mantenimiento Carreteras",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8554211,
+          39.4798796
+        ]
+      },
+      "id": "way/656709319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/656709322",
+        "industrial": "scrap_yard",
+        "landuse": "industrial",
+        "name": "Sedex Card",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8533541,
+          39.4867245
+        ]
+      },
+      "id": "way/656709322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/658291133",
+        "landuse": "industrial",
+        "name": "Qusería",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6222436,
+          39.5286836
+        ]
+      },
+      "id": "way/658291133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/661394748",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1714488,
+          40.3241035
+        ]
+      },
+      "id": "way/661394748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/664168953",
+        "landuse": "industrial",
+        "name": "Polígono Industrial de Hoyos",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7128838,
+          40.1672948
+        ]
+      },
+      "id": "way/664168953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/664168954",
+        "industrial": "scrap_yard",
+        "landuse": "industrial",
+        "name": "Desguaces CAT2007",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7132365,
+          40.1675454
+        ]
+      },
+      "id": "way/664168954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/693971193",
+        "landuse": "industrial",
+        "source": "PNOA",
+        "source:date": "2019",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5459682,
+          39.9012055
+        ]
+      },
+      "id": "way/693971193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/701121495",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9171673,
+          40.2651248
+        ]
+      },
+      "id": "way/701121495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/719463218",
+        "landuse": "industrial",
+        "source": "PNOA",
+        "source:date": "2019",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5333336,
+          40.0781907
+        ]
+      },
+      "id": "way/719463218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/814739806",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4785907,
+          39.9056154
+        ]
+      },
+      "id": "way/814739806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/815630195",
+        "industrial": "factory",
+        "landuse": "industrial",
+        "name": "Anbonisa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9774673,
+          40.2346394
+        ]
+      },
+      "id": "way/815630195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821836791",
+        "landuse": "industrial",
+        "name": "Termosol 2 - Concentrated Solar Power",
+        "operator": "Nextera",
+        "plant:method": "thermal",
+        "plant:output:electricity": "50 MW",
+        "plant:source": "solar",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.5989525,
+          39.1802786
+        ]
+      },
+      "id": "way/821836791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/826461957",
+        "landuse": "industrial",
+        "name": "Polígono Industrial \"Arroyo Caballo\"",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.857003,
+          39.4854246
+        ]
+      },
+      "id": "way/826461957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/826591481",
+        "landuse": "industrial",
+        "name": "Polígono Industrial 1º de Mayo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9238159,
+          39.1386362
+        ]
+      },
+      "id": "way/826591481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/826598408",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9190058,
+          39.147335
+        ]
+      },
+      "id": "way/826598408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/855333380",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6896853,
+          39.9018565
+        ]
+      },
+      "id": "way/855333380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/860839127",
+        "landuse": "industrial",
+        "man_made": "works",
+        "name": "PLASOLIVA",
+        "operator": "Junta de Extremadura",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8181049,
+          40.2095329
+        ]
+      },
+      "id": "way/860839127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/986596399",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3325436,
+          40.296612
+        ]
+      },
+      "id": "way/986596399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/987230883",
+        "landuse": "industrial",
+        "name": "Gas",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9792827,
+          40.2349313
+        ]
+      },
+      "id": "way/987230883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1054312727",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "SET FV SAN ANTONIO",
+        "operator": "Iberdrola",
+        "operator:wikidata": "Q1437502",
+        "power": "substation",
+        "substation": "generation",
+        "voltage": "400000;30000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4642692,
+          39.6285343
+        ]
+      },
+      "id": "way/1054312727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1117959764",
+        "industrial": "agriculture",
+        "landuse": "industrial",
+        "name": "Cooperativa San Juan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6207585,
+          39.1378293
+        ]
+      },
+      "id": "way/1117959764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1126438729",
+        "landuse": "industrial",
+        "name": "Centro de empresas",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8730199,
+          40.1434774
+        ]
+      },
+      "id": "way/1126438729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1132989156",
+        "building": "yes",
+        "industrial": "slaughterhouse",
+        "landuse": "industrial",
+        "name": "Matadero Municipal",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7019665,
+          39.280846
+        ]
+      },
+      "id": "way/1132989156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1153349301",
+        "landuse": "industrial",
+        "name": "Jacoliva",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4144408,
+          40.1495419
+        ]
+      },
+      "id": "way/1153349301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1156242975",
+        "industrial": "agriculture",
+        "landuse": "industrial",
+        "name": "La Almazara Extremeña",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7907922,
+          40.1110209
+        ]
+      },
+      "id": "way/1156242975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1158254363",
+        "landuse": "industrial",
+        "name": "Polígono Industrial de Mata de Alcántara",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8127496,
+          39.7120558
+        ]
+      },
+      "id": "way/1158254363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1159905980",
+        "industrial": "agriculture",
+        "landuse": "industrial",
+        "name": "Soc. Coop. \"San Miguel Arcángel\"",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2779174,
+          40.247946
+        ]
+      },
+      "id": "way/1159905980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1160026489",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8647979,
+          40.2024143
+        ]
+      },
+      "id": "way/1160026489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1160026490",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8687616,
+          40.2039852
+        ]
+      },
+      "id": "way/1160026490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1168957423",
+        "barrier": "fence",
+        "landuse": "industrial",
+        "name": "Planta Termosolar de Majadas",
+        "name:en": "Majadas Solar Thermal Power Plant",
+        "name:es": "Planta Termosolar de Majadas",
+        "plant:method": "thermal",
+        "plant:output:electricity": "50 MW",
+        "plant:source": "solar",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7432963,
+          39.968427
+        ]
+      },
+      "id": "way/1168957423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1169053956",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7406712,
+          39.9651998
+        ]
+      },
+      "id": "way/1169053956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1172863835",
+        "landuse": "industrial",
+        "name": "API-N1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4444518,
+          39.5164566
+        ]
+      },
+      "id": "way/1172863835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1172863837",
+        "landuse": "industrial",
+        "name": "UA.N6",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4358321,
+          39.5033823
+        ]
+      },
+      "id": "way/1172863837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1173421335",
+        "landuse": "industrial",
+        "name": "Solaben 2",
+        "plant:method": "thermal",
+        "plant:output:electricity": "yes",
+        "plant:source": "solar",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3910256,
+          39.2284605
+        ]
+      },
+      "id": "way/1173421335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1174255928",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3991831,
+          39.2119829
+        ]
+      },
+      "id": "way/1174255928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1174319743",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4010214,
+          39.2195653
+        ]
+      },
+      "id": "way/1174319743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1181811728",
+        "building": "yes",
+        "industrial": "slaughterhouse",
+        "landuse": "industrial",
+        "name": "Matadero Municipal",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0379099,
+          39.1739242
+        ]
+      },
+      "id": "way/1181811728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1181890406",
+        "landuse": "industrial",
+        "name": "Polígono Agrícola \"El Regajo\"",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0405054,
+          39.1689145
+        ]
+      },
+      "id": "way/1181890406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1182085105",
+        "landuse": "industrial",
+        "source:geometry": "PNOA",
+        "source:geometry:date": "2022",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3314665,
+          39.4513261
+        ]
+      },
+      "id": "way/1182085105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1182111204",
+        "landuse": "industrial",
+        "source:geometry": "PNOA",
+        "source:geometry:date": "2022",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3185901,
+          39.4481507
+        ]
+      },
+      "id": "way/1182111204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1189499244",
+        "landuse": "industrial",
+        "source:geometry": "PNOA",
+        "source:geometry:date": "2022",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7049834,
+          40.1228109
+        ]
+      },
+      "id": "way/1189499244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1191745715",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1434267,
+          39.2264849
+        ]
+      },
+      "id": "way/1191745715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1191911656",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1427026,
+          39.229515
+        ]
+      },
+      "id": "way/1191911656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1207846747",
+        "landuse": "industrial",
+        "name": "Póligono Industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6285621,
+          39.1496184
+        ]
+      },
+      "id": "way/1207846747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1271682913",
+        "landuse": "industrial",
+        "name": "Planta Solar Folovolcaica Cáceres 2020",
+        "operator": "Alter Enersun Cáceres Tres",
+        "plant:method": "photovoltaic",
+        "plant:output:electricity": "49.9 MW",
+        "plant:source": "solar",
+        "power": "plant",
+        "source": "http://extremambiente.juntaex.es/files/01_EsIA%20PFV%20C%C3%A1ceres%202020%20COMPLETO(1).pdf",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4443522,
+          39.5268834
+        ]
+      },
+      "id": "way/1271682913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1271695362",
+        "landuse": "industrial",
+        "name": "PARQUE FOTOVOLTAICO PFV CÁCERES 2021",
+        "plant:method": "photovoltaic",
+        "plant:output:electricity": "yes",
+        "plant:source": "solar",
+        "power": "plant",
+        "source": "http://extremambiente.juntaex.es/files/EsIA%20PFV%202021%20C%C3%A1ceres%20COMPLETO.pdf",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4544347,
+          39.5215141
+        ]
+      },
+      "id": "way/1271695362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1312865792",
+        "landuse": "industrial",
+        "name": "Cooperativa San Isidro",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9187797,
+          39.147296
+        ]
+      },
+      "id": "way/1312865792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1312865825",
+        "landuse": "industrial",
+        "name": "Cooperativa Miajadas San Marcos",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9278106,
+          39.1434382
+        ]
+      },
+      "id": "way/1312865825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1365505270",
+        "landuse": "industrial",
+        "source:geometry": "PNOA",
+        "source:geometry:date": "2022",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7424601,
+          40.0339115
+        ]
+      },
+      "id": "way/1365505270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1484027227",
+        "area": "yes",
+        "landuse": "industrial",
+        "plant:source": "battery",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6381295,
+          39.8201301
+        ]
+      },
+      "id": "way/1484027227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1484067523",
+        "landuse": "industrial",
+        "plant:source": "battery",
+        "power": "plant",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6127753,
+          39.7789362
+        ]
+      },
+      "id": "way/1484067523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1484106357",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4163907,
+          39.2518192
+        ]
+      },
+      "id": "way/1484106357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1490510197",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3898987,
+          39.9927787
+        ]
+      },
+      "id": "way/1490510197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1512188254",
+        "landuse": "industrial",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4650884,
+          40.002503
+        ]
+      },
+      "id": "way/1512188254"
+    }
+  ]
+}
