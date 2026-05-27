@@ -4,10 +4,7 @@
 
 Los notebooks de este repositorio no se pueden previsualizar directamente en GitHub debido a que contienen widgets interactivos.
 
-Para **ver el notebook con las salidas** (para visualizar las tablas y mapas interactivos debes ejecutar el notebook en tu propio entorno):
-(https://nbviewer.org/github/martaaliende/Territorios-Inteligentes-Caceres/blob/main/MainCodigo.ipynb)
-
-Para **ejecutarlo** en Colab:
+Pulsa para ver el Notebook (para visualizar las tablas y mapas interactivos debes ejecutar el notebook en tu propio entorno):
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martaaliende/Territorios-Inteligentes-Caceres/blob/main/MainCodigo.ipynb)
 
