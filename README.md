@@ -1,9 +1,8 @@
-# TFG — Agrupación de Municipios de la Provincia de Cáceres
+# Agrupación de Municipios de la Provincia de Cáceres
+### Marta Aliende del Pino
 
 ## Estructura de carpetas en Google Drive
-
 Crea esta carpeta en tu Drive y copia dentro todos los archivos del repositorio:
-
 ```
 MyDrive/
 └── Colab Notebooks/
@@ -22,36 +21,42 @@ MyDrive/
         ├── matriz_adyacencia.xlsx
         └── municipios por MancoM y por GAL.xlsx
 ```
-
 Los archivos `09-13.xlsx`, `09-25.xlsx` y `09-26.xlsx` se generan automáticamente al ejecutar el notebook.
 
+- El notebook requiere el shapefile de límites municipales. Descárgalo desde el [Centro de Descargas del CNIG](https://centrodedescargas.cnig.es/CentroDescargas/limites-municipales-provinciales-autonomicos) y colócalo en una carpeta llamada `SHP_ETRS89` dentro de `TFG/`, con los archivos:
+  - `recintos_municipales_inspire_peninbal_etrs89.*`
+  - `ll_municipales_inspire_peninbal_etrs89.*`
+
+  La estructura final de la carpeta quedará así:
+
+  ```
+  TFG/
+  ├── SHP_ETRS89/
+  │   ├── recintos_municipales_inspire_peninbal_etrs89.*
+  │   └── ll_municipales_inspire_peninbal_etrs89.*
+  ├── MainCodigo.ipynb
+  └── ... (resto de archivos)
+  ```
 ## Cómo ejecutar
-
 ### 1. Monta Google Drive en Colab
-
 Al abrir cualquier notebook en Colab, ejecuta primero esta celda (aparece al inicio de `MainCodigo.ipynb`):
 
 ```python
 from google.colab import drive
 drive.mount('/content/drive')
 ```
-
 Colab pedirá permiso para acceder a tu Drive, acéptalo.
 
 ### 2. Verifica la ruta base
-
 La ruta base está definida al inicio del notebook:
 
 ```python
 BASE = '/content/drive/MyDrive/Colab Notebooks/TFG'
 ```
-
 Si la carpeta está guardada en otra ubicación, cambia esta línea para que apunte a donde está.
 
 ### 3. Ejecuta
-
 Abre `MainCodigo.ipynb` en Google Colab y ejecuta las celdas **en orden de arriba a abajo** (`Entorno de ejecución → Ejecutar todo`).
-
 ---
 
 ## Descripción de los archivos
@@ -78,18 +83,4 @@ Abre `MainCodigo.ipynb` en Google Colab y ejecuta las celdas **en orden de arrib
 - La generación de las matrices (`crear_matrices.ipynb`) puede tardar varios minutos porque descarga el grafo de carreteras de la provincia de Cáceres. Si ya tienes los archivos `.xlsx` de las matrices no es necesario ejecutarlo.
 
 - El script `descarga_datos.py` requiere conexión a internet para geocodificación inversa (Nominatim/OpenStreetMap) y opcionalmente para Google Places API. Los datos de Google Places (`datosgoogleapi.xlsx`) se descargan por separado; si ya tienes el archivo no es necesario volver a ejecutar esa parte.
-
-- El notebook requiere el shapefile de límites municipales. Descárgalo desde el [Centro de Descargas del CNIG](https://centrodedescargas.cnig.es/CentroDescargas/limites-municipales-provinciales-autonomicos) y colócalo en una carpeta llamada `SHP_ETRS89` dentro de `TFG/`, con los archivos:
-  - `recintos_municipales_inspire_peninbal_etrs89.*`
-  - `ll_municipales_inspire_peninbal_etrs89.*`
-
-  La estructura final de la carpeta quedará así:
-
-  ```
-  TFG/
-  ├── SHP_ETRS89/
-  │   ├── recintos_municipales_inspire_peninbal_etrs89.*
-  │   └── ll_municipales_inspire_peninbal_etrs89.*
-  ├── MainCodigo.ipynb
-  └── ... (resto de archivos)
   ```
