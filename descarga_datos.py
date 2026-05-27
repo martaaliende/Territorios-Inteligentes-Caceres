@@ -43,7 +43,7 @@ RUTA_09_26     = f'{SI}/09-26.xlsx'
 RUTA_GOOGLEAPI = f'{SI}/datosgoogleapi.xlsx'
 
 if 'GOOGLE_PLACES_API_KEY' not in dir():
-    GOOGLE_PLACES_API_KEY = "AIzaSyADmDD0peCy1iEPnYQlwzVTqOirfbeJHdc"
+    GOOGLE_PLACES_API_KEY = "incluir aqui tu API"
 
 # UTILIDADES
 
